@@ -5,9 +5,9 @@
 # and absorption lines. Although it is a good alternative, this process takes a 
 # lot of time.
 
-# The aim of this project is to use raw photometry data (magnitudes in different 
-# bands) from the SDSS to test if we can separate sources into their true classes
-# without having to study their spectroscopic data.
+# The aim of this Machine Learning project is to use raw photometry data (magnitudes 
+# in different bands) from the SDSS to test if we can separate sources into their true
+# classes without having to study their spectroscopic data.
 
 import numpy as np
 import matplotlib.pyplot as plt

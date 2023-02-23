@@ -27,7 +27,7 @@ import pandas as pd
 # To test the data using redshift, make sure to delete it from 'filename.drop'.
 
 # Data input-------------------------------------------------------------------
-filename = pd.read_csv('C:/Users/mathe/Downloads/archive/star_classification.csv')
+filename = pd.read_csv('filepath/file.csv')
 df = filename.drop(['obj_ID','alpha','delta','run_ID','rerun_ID','cam_col','field_ID',
               'fiber_ID', 'plate', 'MJD', 'spec_obj_ID', 'redshift'], axis = 1)
 

@@ -1,6 +1,6 @@
 # AstroMachineLearning9506S
 
-This is a machine learning project required for the completion of the AstroMachine Learning course at The University of Wester Ontario.
+This is a machine learning project required for the completion of the AstroMachine Learning course at The University of Western Ontario.
 
 My code is an astronomical classifier based on multi-band photometry.
 
